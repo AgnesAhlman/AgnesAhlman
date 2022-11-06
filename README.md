@@ -6,7 +6,7 @@ I’m a former preschool teacher who is now a frontend developer student at Tech
 
 ### Other stuff
 
-Other stuff
+
 Skillset ⭐ HTML5 | CSS3 | JavaScript (ES6) | React | Redux | APIs | Styled Components | Nodejs
 
 Portfolio 🎨: https://agnesahlmansportfolio.netlify.app/
