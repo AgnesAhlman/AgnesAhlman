@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**AgnesAhlman/AgnesAhlman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a former preschool teacher who is now a frontend developer student at Technigo. I’m solution-focused and a creative person who is excited to learn more about frontend development. I also have experience with graphic design.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Other stuff
+
+Other stuff
+Skillset ⭐ HTML5 | CSS3 | JavaScript (ES6) | React | Redux | APIs | Styled Components | Nodejs
+
+Portfolio 🎨: https://agnesahlmansportfolio.netlify.app/
+
+Let's connect 🤝: https://www.linkedin.com/in/agnes-ahlman-1b2018251/
