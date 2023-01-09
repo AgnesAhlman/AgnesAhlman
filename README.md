@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m a former preschool teacher who is now a frontend developer student at Technigo. I’m solution-focused and a creative person who is excited to learn more about frontend development. I also have experience with graphic design.
+I’m a frontend developer with an eye for design! I’m a creative person who love problem solving. I work hard to be the best developer that I possible can be. 
 
 
 
