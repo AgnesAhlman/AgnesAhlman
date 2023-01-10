@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I’m a frontend developer with an eye for design! I’m a creative person who love problem solving. I work hard to be the best developer that I possible can be. 
 
+I am a junior developer with a background in graphic design and education as a preschool teacher. I am highly motivated to constantly learn and improve my skills as a developer. My passion for creating and solving problems, combined with my eye for aesthetics, make me well-suited for the field of software development. I am committed to becoming a great developer and excited to tackle the challenges that come with it.
 
 
 ### Other stuff
