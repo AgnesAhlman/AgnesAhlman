@@ -10,5 +10,7 @@ I am a junior developer with a background as a preschool teacher, also have some
 Skillset ⭐ HTML5 | CSS3 | JavaScript (ES6) | React | Redux | APIs | Styled Components | Nodejs
 
 Portfolio 🎨: https://agnesahlmansportfolio.netlify.app/
+
 Webshop for my paintings: https://artbyahlman.se/
+
 Let's connect 🤝: https://www.linkedin.com/in/agnes-ahlman-1b2018251/
