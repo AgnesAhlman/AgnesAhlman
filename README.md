@@ -7,7 +7,7 @@ I am a junior developer with a background as a preschool teacher, also have some
 ### Other stuff
 
 
-Skillset ⭐ HTML5 | CSS3 | JavaScript (ES6) | React | Redux | APIs | Styled Components | Nodejs
+Skillset ⭐ HTML5 | CSS3 | JavaScript (ES6) | React | Redux | TypeScript| Next.js | CSS Moduels | Styled Components | APIs | Styled Components | Nodejs
 
 Portfolio 🎨: https://agnesahlmansportfolio.netlify.app/
 
