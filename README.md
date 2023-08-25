@@ -7,11 +7,12 @@ I am a junior developer with a background as a preschool teacher, also have some
 ### Other stuff
 
 
-Skillset ⭐ HTML5 | CSS3 | JavaScript (ES6) | React | Redux | TypeScript | Next.js | CSS Moduels | Styled Components | APIs | Styled Components | Nodejs
---> soon Vue
+Skillset ⭐ HTML5 | CSS3 | JavaScript (ES6) | React | Redux | Next.js | CSS Moduels | Styled Components | APIs | Styled Components | Nodejs |
 
-Portfolio 🎨: https://agnesahlmansportfolio.netlify.app/
+--> soon Vue, .NET, C#
 
-Webshop for my paintings: https://artbyahlman.se/
+Portfolio 🎨: https://aahlmansportfolio.netlify.app/
+
+My final project at Technigo: https://artbyahlman.se/
 
 Let's connect 🤝: https://www.linkedin.com/in/agnes-ahlman-1b2018251/
